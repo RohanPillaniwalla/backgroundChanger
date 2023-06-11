@@ -8,7 +8,7 @@ I have used React Native for the development of application along with JavaScrip
 
 To run this project locally, follow these steps:
 
-1. Clone the repository: (https://github.com/RohanPillaniwalla/styles_cards)
+1. Clone the repository: (https://github.com/RohanPillaniwalla/backgroundChanger)
 2. Navigate to the project directory
 3. Open the terminal in the project directory
 4. run npm install
